@@ -1,0 +1,11 @@
+framework module GeoPush {
+  umbrella header "GeoPush.h"
+
+  export *
+  module * { export * }
+}
+
+module GeoPush.Swift {
+    header "GeoPush-Swift.h"
+    requires objc
+}
