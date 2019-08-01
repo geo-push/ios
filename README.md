@@ -1,7 +1,7 @@
 ## Подключение через CocoaPods:
 
 ```
-  pod 'GeoPush'
+  pod 'GeoPush', :git => 'https://github.com/geo-push/ios.git'
 ```
 
 В CocoaPods поставляется universal сборка, для публикации в AppStore нужно убрать лишние архитектуры. 
