@@ -6,7 +6,8 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'robo-dev'
   s.source           = { :git => 'https://github.com/geo-push/ios.git', :tag => s.version.to_s }
-  s.source_files     = 'GeoPush/**/*'
+  s.source_files     = 'GeoPush/**/*.h'
+  s.public_header_files = 'GeoPush/**/*.h'
   s.ios.deployment_target = '10.0'
   s.vendored_frameworks = 'GeoPush/GeoPush.framework'
 end
