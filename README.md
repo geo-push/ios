@@ -70,6 +70,19 @@ done
     }
   ```
  
+ Также имеется возможность отправки геопозиции, только если приложение уже ранее получило разрешение на использование геопозиции пользователя. 
+ 
+ ```
+ import GeoPush
+ 
+ func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+       
+       UGPLocation.shared.startTrackingIfHasPermission()
+       
+       return true
+   }
+ ```
+ 
  ## Настройка push-сообщений:
  
  Регистрируемся на получение push-сообщений:
@@ -153,4 +166,13 @@ class NotificationService: UNNotificationServiceExtension {
     }
 
 }
+```
+
+
+ ## Настройка отправки данных о пользователе:
+
+```
+import GeoPush
+      
+UGPPushAPI.sendUserInfo(["name": "User Name"])
 ```
