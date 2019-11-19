@@ -8,4 +8,5 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/geo-push/ios.git', :tag => s.version.to_s }
   s.source_files     = 'GeoPush/**/*'
   s.ios.deployment_target = '10.0'
+  s.vendored_frameworks = 'GeoPush/GeoPush.framework'
 end
