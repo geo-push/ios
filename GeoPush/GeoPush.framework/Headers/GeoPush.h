@@ -2,7 +2,7 @@
 //  GeoPush.h
 //  GeoPush
 //
-//  Created by Alex Ostroushko on 12/21/18.
+//  Created by GeoPush on 12/21/18.
 //  Copyright © 2018 UBANK. All rights reserved.
 //
 
