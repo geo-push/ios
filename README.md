@@ -37,7 +37,19 @@ do
 
 done
 ```
+## Настройка url сервера:
 
+ ```
+ import GeoPush
+ 
+ func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+       
+       UGPServer.setServer(url: "http://google.com")
+       
+       return true
+   }
+  ```
+  
 ## Настройка отправки геопозиции:
 
 В файл Info.plist нужно добавить следующие строки:
