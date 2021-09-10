@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/GeoPush-Swift.h</key>
 		<data>
-		/+8uNG6POTMSFK5o1MO/injhUCY=
+		LDt39zKil3CrbW4MDvFXhV2Q39o=
 		</data>
 		<key>Headers/GeoPush.h</key>
 		<data>
@@ -14,79 +14,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Do2DiTT59wC982Crqp8bN00QWnI=
+		XS7op/w9PMTlTroHFEMq2bhVFfk=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		qz/IboqaHlfEVki214PO8dNrL64=
+		GI880vxyUA2r5hkLUZhX3maAuL8=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XlLfb6PLJ+f8tjoqjCOCF8WVgYQ=
+		tquQXy7fn2mFk87oKguE8/d9Nh4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		19MANCBSy80jjsihmII/SwvITQ8=
+		niYZdIomhEDvE9QwrhFhP2z2+fE=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		qz/IboqaHlfEVki214PO8dNrL64=
+		GI880vxyUA2r5hkLUZhX3maAuL8=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		XlLfb6PLJ+f8tjoqjCOCF8WVgYQ=
+		tquQXy7fn2mFk87oKguE8/d9Nh4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		19MANCBSy80jjsihmII/SwvITQ8=
+		niYZdIomhEDvE9QwrhFhP2z2+fE=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dUxGOoNQbN9+T4S8C8PMX6/3UZI=
+		3YRsNiuvv5ehCcJnt0mOVCwDe38=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KnmD13jyT5EIXzgv4fhuBIOG0Hw=
+		DyEQtV500G2zLRWCLOjTVAqGLF4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		765ntmePSBzXsHiaumxUCvgBBnI=
+		wGlWNILfrXQs8dRbmBfy7QoBNW4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftdoc</key>
 		<data>
-		dUxGOoNQbN9+T4S8C8PMX6/3UZI=
+		3YRsNiuvv5ehCcJnt0mOVCwDe38=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftinterface</key>
 		<data>
-		KnmD13jyT5EIXzgv4fhuBIOG0Hw=
+		DyEQtV500G2zLRWCLOjTVAqGLF4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftmodule</key>
 		<data>
-		765ntmePSBzXsHiaumxUCvgBBnI=
+		wGlWNILfrXQs8dRbmBfy7QoBNW4=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fryHISubC/poydhD9T9kndWJd0A=
+		G971msuR7aR40sCYp++qPv1X5ds=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cbN1aRXvuR7iHrzAw9GtIx0Gbxg=
+		T9hfmtxPZNg5IpRSE0+s15JgavY=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XwsBpYr9VhFNP5k8YKQjwGfV+KM=
+		HtGAHvR5UJJ3SYKxhNb7Al8xJbc=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		fryHISubC/poydhD9T9kndWJd0A=
+		G971msuR7aR40sCYp++qPv1X5ds=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		cbN1aRXvuR7iHrzAw9GtIx0Gbxg=
+		T9hfmtxPZNg5IpRSE0+s15JgavY=
 		</data>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		XwsBpYr9VhFNP5k8YKQjwGfV+KM=
+		HtGAHvR5UJJ3SYKxhNb7Al8xJbc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/+8uNG6POTMSFK5o1MO/injhUCY=
+			LDt39zKil3CrbW4MDvFXhV2Q39o=
 			</data>
 			<key>hash2</key>
 			<data>
-			3c41wS+EzHnzCNmr8RiGZ166xyEWEnjfIOjt4qlb8lM=
+			kk8fq+7KBfJjcW7iz/62G19IV30wyOqhMhIPu4caVa8=
 			</data>
 		</dict>
 		<key>Headers/GeoPush.h</key>
@@ -121,198 +121,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qz/IboqaHlfEVki214PO8dNrL64=
+			GI880vxyUA2r5hkLUZhX3maAuL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			l6qPPnlTFGBc4tSC+VEfNwUWjfOmGeTvz3nZEdeK9L0=
+			P6kk3teII1yzj9Uai6T1tkDJ1SdvjS8GD9Vmu70+bdk=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XlLfb6PLJ+f8tjoqjCOCF8WVgYQ=
+			tquQXy7fn2mFk87oKguE8/d9Nh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dSR8qMhPFWiU03Gt1EhA2D8lifHwHPi/fFc8Pw7K2KE=
+			kpltXD5zUIvmuH7ElKxjOn9jrAhi6o8t7/s6Kdxzw84=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			19MANCBSy80jjsihmII/SwvITQ8=
+			niYZdIomhEDvE9QwrhFhP2z2+fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0G5F6a/NPGOUKXkWqSyvtpyXnPrCdQ0HRStaNFaw9k=
+			E8oPCtk24YgJq5S24pJcNE06UzIaRPuISBnNR5cpqm0=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qz/IboqaHlfEVki214PO8dNrL64=
+			GI880vxyUA2r5hkLUZhX3maAuL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			l6qPPnlTFGBc4tSC+VEfNwUWjfOmGeTvz3nZEdeK9L0=
+			P6kk3teII1yzj9Uai6T1tkDJ1SdvjS8GD9Vmu70+bdk=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XlLfb6PLJ+f8tjoqjCOCF8WVgYQ=
+			tquQXy7fn2mFk87oKguE8/d9Nh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dSR8qMhPFWiU03Gt1EhA2D8lifHwHPi/fFc8Pw7K2KE=
+			kpltXD5zUIvmuH7ElKxjOn9jrAhi6o8t7/s6Kdxzw84=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			19MANCBSy80jjsihmII/SwvITQ8=
+			niYZdIomhEDvE9QwrhFhP2z2+fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0G5F6a/NPGOUKXkWqSyvtpyXnPrCdQ0HRStaNFaw9k=
+			E8oPCtk24YgJq5S24pJcNE06UzIaRPuISBnNR5cpqm0=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dUxGOoNQbN9+T4S8C8PMX6/3UZI=
+			3YRsNiuvv5ehCcJnt0mOVCwDe38=
 			</data>
 			<key>hash2</key>
 			<data>
-			xfOHWkfMknIcOPOpUBpr+FTfBcIzjkyiOEHZECGp39Q=
+			ClHxZ+jXy7n4tFiu8EyL7I20jpTPQomxvmPcYZnsk3s=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KnmD13jyT5EIXzgv4fhuBIOG0Hw=
+			DyEQtV500G2zLRWCLOjTVAqGLF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BxUXDmGU7vbSizOcDoAs8Df4Qomt5N/euA/h4Q0X50s=
+			L2lQvo4QpN/ffNAGTANz7/1YsmCZvq4tZ5FLGBSTRq4=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			765ntmePSBzXsHiaumxUCvgBBnI=
+			wGlWNILfrXQs8dRbmBfy7QoBNW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vjic+u1ZLBYm5SQ3omxmZEJvOU6inoodPajTMDz4AzQ=
+			HMR90zjU6CgFB1RJTsh8TSccfzrp1IZhDtwjtLi6Kmc=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dUxGOoNQbN9+T4S8C8PMX6/3UZI=
+			3YRsNiuvv5ehCcJnt0mOVCwDe38=
 			</data>
 			<key>hash2</key>
 			<data>
-			xfOHWkfMknIcOPOpUBpr+FTfBcIzjkyiOEHZECGp39Q=
+			ClHxZ+jXy7n4tFiu8EyL7I20jpTPQomxvmPcYZnsk3s=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KnmD13jyT5EIXzgv4fhuBIOG0Hw=
+			DyEQtV500G2zLRWCLOjTVAqGLF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BxUXDmGU7vbSizOcDoAs8Df4Qomt5N/euA/h4Q0X50s=
+			L2lQvo4QpN/ffNAGTANz7/1YsmCZvq4tZ5FLGBSTRq4=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			765ntmePSBzXsHiaumxUCvgBBnI=
+			wGlWNILfrXQs8dRbmBfy7QoBNW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vjic+u1ZLBYm5SQ3omxmZEJvOU6inoodPajTMDz4AzQ=
+			HMR90zjU6CgFB1RJTsh8TSccfzrp1IZhDtwjtLi6Kmc=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fryHISubC/poydhD9T9kndWJd0A=
+			G971msuR7aR40sCYp++qPv1X5ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			R97GuJGsC4dLjposW3LSS6eixCk1vKrORyvxw7MhF0w=
+			LgvXQX35xBQpscszInIVMSYPASeFFLW+yZW9pbpzZVk=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cbN1aRXvuR7iHrzAw9GtIx0Gbxg=
+			T9hfmtxPZNg5IpRSE0+s15JgavY=
 			</data>
 			<key>hash2</key>
 			<data>
-			14madSmbdtKisPV/fNfPQA7uCXPyLAt/lFcPnS7qGhA=
+			VZ5Y5DbAN/GcuwM3FBFoxkpNW8tmC9NkcPKAM5MmKC4=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XwsBpYr9VhFNP5k8YKQjwGfV+KM=
+			HtGAHvR5UJJ3SYKxhNb7Al8xJbc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9IKNW6YOkUKzxbyAkF7vBn4/ISz95mS2yjdBkt3lcu4=
+			2h0M5USGKGp1097LLOhho2axwRua4ILJiomK7qnohEc=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fryHISubC/poydhD9T9kndWJd0A=
+			G971msuR7aR40sCYp++qPv1X5ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			R97GuJGsC4dLjposW3LSS6eixCk1vKrORyvxw7MhF0w=
+			LgvXQX35xBQpscszInIVMSYPASeFFLW+yZW9pbpzZVk=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cbN1aRXvuR7iHrzAw9GtIx0Gbxg=
+			T9hfmtxPZNg5IpRSE0+s15JgavY=
 			</data>
 			<key>hash2</key>
 			<data>
-			14madSmbdtKisPV/fNfPQA7uCXPyLAt/lFcPnS7qGhA=
+			VZ5Y5DbAN/GcuwM3FBFoxkpNW8tmC9NkcPKAM5MmKC4=
 			</data>
 		</dict>
 		<key>Modules/GeoPush.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XwsBpYr9VhFNP5k8YKQjwGfV+KM=
+			HtGAHvR5UJJ3SYKxhNb7Al8xJbc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9IKNW6YOkUKzxbyAkF7vBn4/ISz95mS2yjdBkt3lcu4=
+			2h0M5USGKGp1097LLOhho2axwRua4ILJiomK7qnohEc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
