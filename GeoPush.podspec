@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GeoPush'
-  s.version          = '1.1'
+  s.version          = '1.2'
   s.homepage         = 'https://github.com/geo-push/ios'
   s.summary          = 'GeoPush framework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
